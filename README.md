@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dongmin Lee</h1>
 <h3 align="center">Machine Learning Engineer & Artistic Programmer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
+
 <!--
 **dongminlee94/dongminlee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
