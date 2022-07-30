@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dongmin Lee</h1>
-<h3 align="center">Machine Learning Engineer & Artistic Programmer</h3>
+<h3 align="center">Machine Learning Engineer & Infrastructure Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
 
