@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
 
-## 🔭 Interests
+### 🔭 Interests
 
-### MLOps
+#### MLOps
 - **DataOps**: Data Pipelining, Data Analytics Automation
 - **ModelOps**: Model Management, Model Serving, Model Monitoring
 - **DevOps**: CI, CD, Docker, Kubernetes
 
-### Computer Science & Engineering
+#### Computer Science & Engineering
 - Data Structures, Algorithms, OS, Database, Networking
 - SW Design Patterns
 - Clean Code
