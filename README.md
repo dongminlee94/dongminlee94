@@ -1,4 +1,4 @@
-### Dongmin Lee
+### Hi 👋, I'm Dongmin Lee
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
 
