@@ -4,15 +4,10 @@
 
 ### 🔭 Interests
 
-#### MLOps
-- **DataOps**: Data Pipelining, Data Analytics Automation
-- **ModelOps**: Model Management, Model Serving, Model Monitoring
-- **DevOps**: CI, CD, Docker, Kubernetes
-
-#### Computer Science & Engineering
-- Data Structures, Algorithms, OS, Database, Networking
-- SW Design Patterns
-- Clean Code
+- Distributed Training Automation
+- Resource Management Optimization
+- Training & Serving Infrastructure Operations Management
+- Data & Model Version Control
 
 <div align=center>
 	
