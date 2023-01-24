@@ -2,12 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
 
-### 🔭 Interests
-
-- Distributed Training Automation
-- Resource Management Optimization
-- Training & Serving Infrastructure Operations Management
-- Data & Model Version Control
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongminlee94&show_icons=true" alt="dongminlee94" /></p>
 
 <div align=center>
 	
