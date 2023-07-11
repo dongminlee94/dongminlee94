@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongmin-lee" alt="dongmin-lee" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongminlee94&show_icons=true" alt="dongminlee94" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongminlee94&show_icons=true" alt="dongminlee94" /></p>
 
 <div align=center>
 	
